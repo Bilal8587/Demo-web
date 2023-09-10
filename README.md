@@ -1,2 +1,2 @@
 # Demo-web
-This is the demo web to understanding to Git and GitHub
+This is the demo web to understanding to Git & GitHub.
